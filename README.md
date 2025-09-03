@@ -18,4 +18,4 @@ This repo is meant for practice, quick references, and sharing handy code exampl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/noshankjain/code_snippets.git
+   git clone https://github.com/Junaid-88/code_snippets.git
